@@ -10,7 +10,7 @@ CSS
 Xpath
 2. Rate your JS knowledge from 0 to 10
 Ans:
-I  have some basic knowledge about JS, if the project is based on JS I am willing to learn JS .
+I  have some basic knowledge about JS.If the project requires, I am willing to learn JS.
 
 3. Rate your Cypress knowledge from 0 to 10
 Ans:
@@ -78,7 +78,7 @@ objSelect.selectByValue(value);
 
 10. What actions can be applied to an element using Cypress?
  Ans:
-Mouse Actions:
+Mouse Actions in Selenium:
 doubleClick(): Performs double click on the element
 clickAndHold(): Performs long click on the mouse without releasing it
 dragAndDrop(): Drags the element from one point and drops to another
